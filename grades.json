@@ -36,19 +36,4 @@
     ]
 
   }
-][
-  {
-    "objectID": 1,
-    "nameUe": "Gestion",
-    "name": "Science Humaines",
-    "grades": 4,
-    "ectsNumber": 3
-  },
-  {
-    "objectID": 2,
-    "nameUe": "Gestion",
-    "name": "Ethics",
-    "grades": 12,
-    "ectsNumber": 2
-  }
 ]
