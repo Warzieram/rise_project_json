@@ -2,6 +2,7 @@
   {
     "objectID": 1,
     "nameUe": "Gestion",
+    "ects": 5,
     "list": [
       {
         "name": "Science Humaines",
@@ -21,6 +22,7 @@
   {
     "objectID": 2,
     "nameUe": "Architecture",
+    "ects": 2,
     "list": [
       {
         "name": "Cours",
