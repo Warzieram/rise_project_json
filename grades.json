@@ -2,6 +2,44 @@
   {
     "objectID": 1,
     "nameUe": "Gestion",
+    "list": [
+      {
+        "name": "Science Humaines",
+        "grades": 4,
+        "ectsNumber": 3
+      },
+      {
+        "name": "Ethics",
+        "grades": 12,
+        "ectsNumber": 2
+
+      }
+    ]
+
+  },
+
+  {
+    "objectID": 2,
+    "nameUe": "Architecture",
+    "list": [
+      {
+        "name": "Cours",
+        "grades": 16,
+        "ectsNumber": 1
+      },
+      {
+        "name": "Labs",
+        "grades": 1,
+        "ectsNumber": 1
+
+      }
+    ]
+
+  }
+][
+  {
+    "objectID": 1,
+    "nameUe": "Gestion",
     "name": "Science Humaines",
     "grades": 4,
     "ectsNumber": 3
